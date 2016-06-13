@@ -26,7 +26,7 @@ https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
 
 The above data sets were downloaded and placed in the working directory of this project.
 
-The caret and doParallel (for parrallel processing) packages were used in this project.
+The caret and doParallel (for parallel processing) packages were used in this project.
 
 ```{r echo=FALSE,results='hide'}
 
